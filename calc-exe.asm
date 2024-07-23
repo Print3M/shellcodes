@@ -1,5 +1,6 @@
 ; Author: Print3M (https://print3m.github.io/)
-;
+; Arch: Windows x64
+; 
 ; This code just runs "calc.exe" without any external dependencies.
 ;
 [bits 64]
